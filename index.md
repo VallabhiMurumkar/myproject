@@ -11,5 +11,8 @@ git init
 ## Checking Status
 git status
 
+## Checking commit history
+git log
+
 ## Downloads and references
 -https://git-scm.com/git
